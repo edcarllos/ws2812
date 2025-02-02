@@ -2,6 +2,8 @@
 
 Este projeto simula o painel de um elevador utilizando o microcontrolador RP2040 e a placa de desenvolvimento BitDogLab. O objetivo é criar um sistema onde uma matriz de LEDs WS2812 exibe o andar atual, enquanto botões permitem simular comandos para subir ou descer andares. O LED RGB é utilizado para indicar quando o elevador está em movimento, piscando durante a transição entre andares.
 
+**VÍDEO:** https://youtube.com/shorts/VhSrUQmTIiw
+
 ## Requisitos do Projeto
 
 O projeto foi desenvolvido com base nos seguintes requisitos:
